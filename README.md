@@ -21,4 +21,4 @@ A simple **Calculator** built with **HTML, CSS, and JavaScript**. The calculator
 
 - **HTML** – Structure
 - **CSS** – Styling
-- **JavaScript** – Game Logic
+- **JavaScript** – Logic
