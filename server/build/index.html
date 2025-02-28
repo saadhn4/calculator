@@ -32,7 +32,12 @@
       ><button
         onclick="
         calculation=eval(calculation);
+        
         displayCalculation()
+        if (calculation == 28) {
+        let pElement = document.querySelector('.js-calculation');
+    pElement.innerHTML = 'Saadlei <3';
+  }
         localStorage.setItem('calculation', calculation);
 
 "
